@@ -1,0 +1,23 @@
+imax * number of channels
+
+jmax * number of background minus 1
+
+kmax * number of nuisance parameters
+
+shapes    *   *   output_recoWZ_20bins.root  $PROCESS
+
+bin   ch1  ch1  ch1  ch1  ch1  ch1  ch1  ch1  ch1  ch1  ch1  ch1  ch1  ch1  ch1  ch1  ch1  ch1  ch1  ch1  
+
+process  WZ_bin0  WZ_bin1  WZ_bin2  WZ_bin3  WZ_bin4  WZ_bin5  WZ_bin6  WZ_bin7  WZ_bin8  WZ_bin9  WZ_bin10  WZ_bin11  WZ_bin12  WZ_bin13  WZ_bin14  WZ_bin15  WZ_bin16  WZ_bin17  WZ_bin18  WZ_bin19  
+
+process  0  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  
+
+rate  1.150561  9.294223  3.453611  1.340651  0.481084  0.212020  0.104294  0.054496  0.032000  0.014797  0.007194  0.005711  0.002687  0.001190  0.000946  0.000447  0.000229  0.002592  0.000085  0.000041  
+
+lumi_13TeV_2016    lnN      1.025  1.025  1.025  1.025  1.025  1.025  1.025  1.025  1.025  1.025  1.025  1.025  1.025  1.025  1.025  1.025  1.025  1.025  1.025  1.025
+
+CMS_momres_m    lnN      1.005  1.005  1.005  1.005  1.005  1.005  1.005  1.005  1.005  1.005  1.005  1.005  1.005  1.005  1.005  1.005  1.005  1.005  1.005  1.005
+
+CMS_momres_e    lnN      1.005  1.005  1.005  1.005  1.005  1.005  1.005  1.005  1.005  1.005  1.005  1.005  1.005  1.005  1.005  1.005  1.005  1.005  1.005  1.005
+
+ch1 autoMCStats 0
