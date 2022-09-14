@@ -4,7 +4,7 @@ jmax * number of background minus 1
 
 kmax * number of nuisance parameters
 
-shapes    *   *   output_recoWZ_20bins.root  $PROCESS
+shapes    *   *   WZ_2016_input.root  $PROCESS
 
 bin   ch1  ch1  ch1  ch1  ch1  ch1  ch1  ch1  ch1  ch1  ch1  ch1  ch1  ch1  ch1  ch1  ch1  ch1  ch1  ch1  
 
